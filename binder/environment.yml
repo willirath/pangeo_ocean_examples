@@ -16,6 +16,7 @@ dependencies:
   - matplotlib=3.0.2
   - cmocean
   - basemap
+  - parcels
   - proj4
   - pyresample
   - numcodecs
